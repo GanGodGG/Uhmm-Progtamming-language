@@ -1,0 +1,11 @@
+================================================================================
+Linker Errors
+Generated: 2026-05-22T11:06:00.215Z
+Total Errors: 2
+================================================================================
+
+[LNK2005] (MSVC)
+"void __cdecl Parse::interpreter(char const *)" (?interpreter@Parse@@YAXPBD@Z) уже определен в main.obj [E:\MiniProjects\UhmLang\build\UhmLang.vcxproj]
+
+[LNK1169] (MSVC)
+обнаружен многократно определенный символ - один или более [E:\MiniProjects\UhmLang\build\UhmLang.vcxproj]
