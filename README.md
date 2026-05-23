@@ -5,6 +5,27 @@
 ![viewer](assets/e9ee90623e80edc323eab0c36feefd5e.jpg)
 --
 
+# how to buid
+
+uhmm just uuuhmmm addd dddd ddd d uhmm
+
+just click build -> debug -> ummlang.exe
+
+or
+
+intal vscode
+instal cpp
+instal cmake
+press main.cpp
+press cntrl+shift+P
+press cmake configue
+press cntrl+shift+P
+press c++ configue
+press cntrl+shift+P
+press cmake build
+enable on terminal
+
+to edit cod just edit file "code.uhm"
 
 
 --
