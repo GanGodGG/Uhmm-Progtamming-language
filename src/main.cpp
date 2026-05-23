@@ -255,7 +255,7 @@ void ReadCommands(vector<string> commands, bool bufferEnabled = false){
                         cout << get<string>(vi) << endl; 
                     }
                 }
-                if(s.find("yanderedev") != string::npos){
+                if(s.find("yanderedev") != string::npos && !(s.find("yanderedev blog end") != string::npos)){
                     size_t name_s = s.find("yanderedev ") + 11;
                     size_t name_e = s.find(" is");
                     std::string name = s.substr(name_s, name_e - name_s); 
