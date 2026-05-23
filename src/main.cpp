@@ -324,5 +324,9 @@ int main(int argc, unsigned char** argv){
     vector<string> all =  Parse::ReadFile("../../code.uhm");
 
     ReadCommands(all);
+
+    cout << "Yo thats end of the letsplay, if you wanna see more content like this subscribe to the channel and also check out my github for more shitty projects like this one!!!" << endl;
+    cout << "press enter to exit..." << endl;
+    cin.get();
     return 0;
 }

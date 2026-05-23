@@ -1,3 +1,0 @@
-E:/MiniProjects/Uhmm-Progtamming-language/build/CMakeFiles/UhmLang.dir
-E:/MiniProjects/Uhmm-Progtamming-language/build/CMakeFiles/ALL_BUILD.dir
-E:/MiniProjects/Uhmm-Progtamming-language/build/CMakeFiles/ZERO_CHECK.dir
