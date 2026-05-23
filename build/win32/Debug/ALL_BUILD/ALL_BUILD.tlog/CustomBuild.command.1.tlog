@@ -1,6 +1,6 @@
-^E:\MINIPROJECTS\UHMLANG\CMAKELISTS.TXT
+^E:\MINIPROJECTS\UHMM-PROGTAMMING-LANGUAGE\CMAKELISTS.TXT
 setlocal
-D:\VSCOMM\cmty\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SE:/MiniProjects/UhmLang -BE:/MiniProjects/UhmLang/build --check-stamp-file E:/MiniProjects/UhmLang/build/CMakeFiles/generate.stamp
+D:\VSCOMM\cmty\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SE:/MiniProjects/Uhmm-Progtamming-language -BE:/MiniProjects/Uhmm-Progtamming-language/build --check-stamp-file E:/MiniProjects/Uhmm-Progtamming-language/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

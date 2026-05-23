@@ -50,14 +50,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "UhmLang::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-UhmLang-Debug-f4c1308655b5ccf9efcd.json",
+					"jsonFile" : "target-UhmLang-Debug-9425a0a72c10170accd0.json",
 					"name" : "UhmLang",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-Debug-d02f5ad3dddb583eeafb.json",
+					"jsonFile" : "target-ZERO_CHECK-Debug-958fe7cd050e3cf76cef.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				}
@@ -112,14 +112,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "UhmLang::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-UhmLang-Release-c4bb3255938bf72794ec.json",
+					"jsonFile" : "target-UhmLang-Release-fa8c007676d980d9ae64.json",
 					"name" : "UhmLang",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-Release-d02f5ad3dddb583eeafb.json",
+					"jsonFile" : "target-ZERO_CHECK-Release-958fe7cd050e3cf76cef.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				}
@@ -174,14 +174,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "UhmLang::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-UhmLang-MinSizeRel-9c7a915f61ce35c93f4a.json",
+					"jsonFile" : "target-UhmLang-MinSizeRel-bfcea90f39d9843b985e.json",
 					"name" : "UhmLang",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-d02f5ad3dddb583eeafb.json",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-958fe7cd050e3cf76cef.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				}
@@ -236,14 +236,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "UhmLang::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-UhmLang-RelWithDebInfo-097b8faafa07d9cdfbf6.json",
+					"jsonFile" : "target-UhmLang-RelWithDebInfo-0f15419737f51ddccff8.json",
 					"name" : "UhmLang",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-d02f5ad3dddb583eeafb.json",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-958fe7cd050e3cf76cef.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
 				}
@@ -253,8 +253,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/MiniProjects/UhmLang/build",
-		"source" : "E:/MiniProjects/UhmLang"
+		"build" : "E:/MiniProjects/Uhmm-Progtamming-language/build",
+		"source" : "E:/MiniProjects/Uhmm-Progtamming-language"
 	},
 	"version" : 
 	{

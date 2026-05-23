@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="E:\MiniProjects\UhmLang\src\main.cpp">
+    <ClCompile Include="E:\MiniProjects\Uhmm-Progtamming-language\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="E:\MiniProjects\UhmLang\src\parser.cpp">
+    <ClCompile Include="E:\MiniProjects\Uhmm-Progtamming-language\src\parser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="E:\MiniProjects\UhmLang\headers\parser.h">
+    <ClInclude Include="E:\MiniProjects\Uhmm-Progtamming-language\headers\parser.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="E:\MiniProjects\UhmLang\CMakeLists.txt" />
+    <CustomBuild Include="E:\MiniProjects\Uhmm-Progtamming-language\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{7CBD2D22-C6D6-3F4C-946D-227302F150C2}</UniqueIdentifier>
+      <UniqueIdentifier>{965C52C4-CB66-39ED-A33B-0C83A62538BB}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{807449FE-7B99-3A8D-A051-BD4D48422F85}</UniqueIdentifier>
+      <UniqueIdentifier>{6DF0845B-DA5C-3AB4-83A0-DE528B1DEB91}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

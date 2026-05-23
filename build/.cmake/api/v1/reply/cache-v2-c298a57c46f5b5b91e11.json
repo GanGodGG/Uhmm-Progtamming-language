@@ -27,7 +27,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "e:/MiniProjects/UhmLang/build"
+			"value" : "e:/MiniProjects/Uhmm-Progtamming-language/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/MiniProjects/UhmLang/build/CMakeFiles/pkgRedirects"
+			"value" : "E:/MiniProjects/Uhmm-Progtamming-language/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "E:/MiniProjects/UhmLang"
+			"value" : "E:/MiniProjects/Uhmm-Progtamming-language"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/MiniProjects/UhmLang/build"
+			"value" : "E:/MiniProjects/Uhmm-Progtamming-language/build"
 		},
 		{
 			"name" : "UhmLang_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "E:/MiniProjects/UhmLang"
+			"value" : "E:/MiniProjects/Uhmm-Progtamming-language"
 		}
 	],
 	"kind" : "cache",

@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\MiniProjects\UhmLang\build\Debug\ZERO_CHECK</FullPath>
+      <FullPath>E:\MiniProjects\Uhmm-Progtamming-language\build\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\MiniProjects\UhmLang\build\Debug\UhmLang.exe</FullPath>
+      <FullPath>E:\MiniProjects\Uhmm-Progtamming-language\build\Debug\UhmLang.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\MiniProjects\UhmLang\build\Debug\ALL_BUILD</FullPath>
+      <FullPath>E:\MiniProjects\Uhmm-Progtamming-language\build\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

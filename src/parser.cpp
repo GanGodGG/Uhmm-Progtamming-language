@@ -8,7 +8,7 @@ vector<string> Parse::ReadFile(const char *path)
     vector<string> code;
     while(fs >> buffer){
         codebuffer += buffer + " ";
-        if(codebuffer.find(":") != string::npos || codebuffer.find("and...") != string::npos){
+        if(codebuffer.find("V%:") != string::npos || codebuffer.find("and...") != string::npos){
             code.push_back(codebuffer);
             codebuffer = "";
         }

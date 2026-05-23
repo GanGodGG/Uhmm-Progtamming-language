@@ -1,6 +1,6 @@
-^E:\MINIPROJECTS\UHMLANG\BUILD\CMAKEFILES\2E9135885BA51E18BDCADC7FDD29AD8F\GENERATE.STAMP.RULE
+^E:\MINIPROJECTS\UHMM-PROGTAMMING-LANGUAGE\BUILD\CMAKEFILES\E1CA3B651741F1EF8C8470DA214F1CD2\GENERATE.STAMP.RULE
 setlocal
-D:\VSCOMM\cmty\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SE:/MiniProjects/UhmLang -BE:/MiniProjects/UhmLang/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/MiniProjects/UhmLang/build/UhmLang.sln
+D:\VSCOMM\cmty\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SE:/MiniProjects/Uhmm-Progtamming-language -BE:/MiniProjects/Uhmm-Progtamming-language/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/MiniProjects/Uhmm-Progtamming-language/build/UhmLang.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
