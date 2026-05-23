@@ -2,6 +2,12 @@
 ...is a esoteric language, that is betr than c++ cuz better syntax!
 
 --
+![viewer](assets/e9ee90623e80edc323eab0c36feefd5e.jpg)
+--
+
+
+
+--
 ![c++ dev versus UPL dev](assets/1294.png)
 --
 
@@ -35,7 +41,7 @@ in UPL you can write more cool type:
 In UPL instead of COUT you can js write "getting from my viewer" yo
 
 --
-![viewer]("assets/images (1).jpg")
+![viewer](assets/images(1).jpg)
 --
 
 and you can write to console with "i gonna show my obs"
